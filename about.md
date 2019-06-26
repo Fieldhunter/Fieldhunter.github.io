@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Now an undergraduate, keen on deep learning, mainly using the tensorrflow framework.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Say something beside the subject, like football, Barcelona fans, haha！
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[1677532160Yuan@gmail.com](mailto:email@domain.com)
