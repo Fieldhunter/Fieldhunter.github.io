@@ -21,7 +21,7 @@ footer-links:
   email: 1677532160Yuan@gmail.com
   facebook:
   flickr:
-  github: 1677532160Yuan@gmail.com
+  github: Fieldhunter
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://fieldhunter.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
