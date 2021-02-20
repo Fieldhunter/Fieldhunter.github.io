@@ -13,7 +13,7 @@ teacher and I are also getting paid. And now my teacher and I are planning to ma
 the accuracy of the model and its ability to recognise complex environments. And some of the other time last term was spent on provincial football tournaments, CET-6, final exams 
 and other trivial matters. None of these have anything to do with technology, so I won't go into them again. These are the summaries of the last term.
 
-Why am I likely to update only one blog this year? Because last month I made a very big decision---to take the NETM(National Entrance Test for MA/MS Candidates). There were two 
+Why am I likely to update only one blog this year? Because last month I made a very big decision---to take the NPEE(National Postgraduate Entrance Examination). There were two 
 main factors in making this decision. Firstly, my current undergraduate institution is not in a provincial capital, so AI-related jobs are basically unavailable. Secondly, my 
 undergraduate institution is not very good and the competition for AI-related positions is fierce, so I want to improve my education in order to get a good job in the future. And 
 it takes a lot of time and effort to prepare for this exam. I've been revising for Maths and English since last month. In the future, I also need to revise my politics and 
